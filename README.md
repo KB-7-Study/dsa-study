@@ -48,46 +48,46 @@
 
 #### [1주차] 문자열, 누적합, 구현
 
-| 문제 번호 | 문제 이름                        |                            링크                            |
-| :-------: | :------------------------------- | :--------------------------------------------------------: |
-|   2309    | 일곱 난쟁이                      | [바로가기](http://boj.kr/5cbef80aaad4484a8c3ea73bebf2c0ab) |
-|   10808   | 알파벳 개수                      | [바로가기](http://boj.kr/1a1898996c8542889b32b4c1b2498dd0) |
-|   2979    | 트럭 주차                        | [바로가기](http://boj.kr/4e97e76bb0dd438fba134d0aada1c531) |
-|   10988   | 팰린드롬인지 확인하기            | [바로가기](http://boj.kr/c7b230ec84bf4153a125b858a5ef77e2) |
-|   1159    | 농구 경기                        | [바로가기](http://boj.kr/5bf6553f957e4a4586dace497284f319) |
-|   11655   | ROT13                            | [바로가기](http://boj.kr/a7e74bfb990641249d917c73a9246796) |
-|   9996    | 한국이 그리울 땐 서버에 접속하지 | [바로가기](http://boj.kr/7c429b5497b149a3a42c4a2d02b9a4b5) |
-|   2559    | 수열                             |  [바로가기](http://boj.kr/de0476b6d7417d8d8c092fa49af417)  |
-|   1620    | 나는야 포켓몬 마스터 이다솜      | [바로가기](http://boj.kr/0f8a07e622564e12bd5f262fc8f0d61b) |
-|   9375    | 패션왕 신해빈                    | [바로가기](http://boj.kr/2c284c870fb64ae8adb0a5760111c03d) |
-|   1213    | 팰린드롬 만들기                  | [바로가기](http://boj.kr/316bc219aa424428a8bc5ae767894d88) |
-|   1940    | 주몽                             | [바로가기](http://boj.kr/2298726c5e12472bb1882ce7ad96981f) |
-|   3986    | 좋은 단어                        | [바로가기](http://boj.kr/1797670218184cc385194f46b1b967dd) |
-|   1629    | 곱셈                             | [바로가기](http://boj.kr/18c305ece6324314ad0b7c6941ed9b30) |
-|   4375    | 1                                |  [바로가기](http://boj.kr/75cf536d0f434f7eb1e532626ca019)  |
+| 문제 번호 | 문제 이름                        |                       링크                        |
+| :-------: | :------------------------------- | :-----------------------------------------------: |
+|   2309    | 일곱 난쟁이                      | [바로가기](https://www.acmicpc.net/problem/2309)  |
+|   10808   | 알파벳 개수                      | [바로가기](https://www.acmicpc.net/problem/10808) |
+|   2979    | 트럭 주차                        | [바로가기](https://www.acmicpc.net/problem/2979)  |
+|   10988   | 팰린드롬인지 확인하기            | [바로가기](https://www.acmicpc.net/problem/10988) |
+|   1159    | 농구 경기                        | [바로가기](https://www.acmicpc.net/problem/1159)  |
+|   11655   | ROT13                            | [바로가기](https://www.acmicpc.net/problem/11655) |
+|   9996    | 한국이 그리울 땐 서버에 접속하지 | [바로가기](https://www.acmicpc.net/problem/9996)  |
+|   2559    | 수열                             | [바로가기](https://www.acmicpc.net/problem/2559)  |
+|   1620    | 나는야 포켓몬 마스터 이다솜      | [바로가기](https://www.acmicpc.net/problem/1620)  |
+|   9375    | 패션왕 신해빈                    | [바로가기](https://www.acmicpc.net/problem/9375)  |
+|   1213    | 팰린드롬 만들기                  | [바로가기](https://www.acmicpc.net/problem/1213)  |
+|   1940    | 주몽                             | [바로가기](https://www.acmicpc.net/problem/1940)  |
+|   3986    | 좋은 단어                        | [바로가기](https://www.acmicpc.net/problem/3986)  |
+|   1629    | 곱셈                             | [바로가기](https://www.acmicpc.net/problem/1629)  |
+|   4375    | 1                                | [바로가기](https://www.acmicpc.net/problem/4375)  |
 
 #### [2주차] 그래프이론, DFS, BFS
 
-| 문제 번호 | 문제 이름         |                            링크                            |
-| :-------: | :---------------- | :--------------------------------------------------------: |
-|   2178    | 미로 탐색         | [바로가기](http://boj.kr/2f0e1a0d5eab489dac865b3ee7e0fa80) |
-|   1012    | 유기농 배추       | [바로가기](http://boj.kr/c2c09d04946f4cc6844f295e38553ca6) |
-|   2468    | 안전 영역         | [바로가기](http://boj.kr/cf2c8a947f5041b69efd55961657526c) |
-|   2583    | 영역 구하기       | [바로가기](http://boj.kr/e94fb8e43b714794a0950505c0091594) |
-|   1992    | 쿼드트리          | [바로가기](http://boj.kr/f833f244536f48fa960ea96f9b5a35fb) |
-|   2828    | 사과 담기 게임    | [바로가기](http://boj.kr/fdee73d789cf421db0e71ad9d332cb4a) |
-|   2910    | 빈도 정렬         |  [바로가기](http://boj.kr/5ab43b14d0489aac5c48a0a717c1a8)  |
-|   4659    | 비밀번호 발음하기 | [바로가기](http://boj.kr/e531e15e4f3b4d828f8295934feafd07) |
-|   2870    | 수강신청          | [바로가기](http://boj.kr/ae47352b83d04d0c9fa5f5e88d697682) |
-|   10709   | 기상캐스터        | [바로가기](http://boj.kr/2e4e57d962ef41a9bb4bc8f670ac158c) |
-|   3474    | 거듭제곱          | [바로가기](http://boj.kr/89fea6fe8f9241b1980f0fac22342679) |
-|   2852    | 경기 기록         | [바로가기](http://boj.kr/5d5e7e5459524080abec73ee77de2fbe) |
-|   1436    | 영화감독 숌       | [바로가기](http://boj.kr/20f8f3ad94314cc8ab21a004bf75dbf6) |
-|   9012    | 괄호              | [바로가기](http://boj.kr/fd0a8a36c94f49b59150c93831c29243) |
-|   4949    | 균형잡힌 세상     | [바로가기](http://boj.kr/5802422930814efeb41969fdf2b6d4d2) |
-|   14502   | 연구소            | [바로가기](http://boj.kr/2812582f10eb41dfa63761279266e42f) |
-|   2636    | 치즈              | [바로가기](http://boj.kr/57cf7a485eb44c4fb1e37887e94c0ee4) |
-|   1068    | 트리              | [바로가기](http://boj.kr/ce4d012c085a44918188cb28f01032b0) |
-|   1325    | 효율적인 해킹     | [바로가기](http://boj.kr/fe8da028da1d44b59514bc4b8231fce8) |
-|   17298   | 오큰수            | [바로가기](http://boj.kr/14db359b008e4b2a9c3658689579f13e) |
-|   13460   | 구슬 탈출 2       |     [바로가기](https://www.acmicpc.net/problem/13460)      |
+| 문제 번호 | 문제 이름         |                       링크                        |
+| :-------: | :---------------- | :-----------------------------------------------: |
+|   2178    | 미로 탐색         | [바로가기](https://www.acmicpc.net/problem/2178)  |
+|   1012    | 유기농 배추       | [바로가기](https://www.acmicpc.net/problem/1012)  |
+|   2468    | 안전 영역         | [바로가기](https://www.acmicpc.net/problem/2468)  |
+|   2583    | 영역 구하기       | [바로가기](https://www.acmicpc.net/problem/2583)  |
+|   1992    | 쿼드트리          | [바로가기](https://www.acmicpc.net/problem/1992)  |
+|   2828    | 사과 담기 게임    | [바로가기](https://www.acmicpc.net/problem/2828)  |
+|   2910    | 빈도 정렬         | [바로가기](https://www.acmicpc.net/problem/2910)  |
+|   4659    | 비밀번호 발음하기 | [바로가기](https://www.acmicpc.net/problem/4659)  |
+|   2870    | 수강신청          | [바로가기](https://www.acmicpc.net/problem/2870)  |
+|   10709   | 기상캐스터        | [바로가기](https://www.acmicpc.net/problem/10709) |
+|   3474    | 거듭제곱          | [바로가기](https://www.acmicpc.net/problem/3474)  |
+|   2852    | 경기 기록         | [바로가기](https://www.acmicpc.net/problem/2852)  |
+|   1436    | 영화감독 숌       | [바로가기](https://www.acmicpc.net/problem/1436)  |
+|   9012    | 괄호              | [바로가기](https://www.acmicpc.net/problem/9012)  |
+|   4949    | 균형잡힌 세상     | [바로가기](hhttps://www.acmicpc.net/problem/4949) |
+|   14502   | 연구소            | [바로가기](https://www.acmicpc.net/problem/14502) |
+|   2636    | 치즈              | [바로가기](https://www.acmicpc.net/problem/2636)  |
+|   1068    | 트리              | [바로가기](https://www.acmicpc.net/problem/1068)  |
+|   1325    | 효율적인 해킹     | [바로가기](https://www.acmicpc.net/problem/1325)  |
+|   17298   | 오큰수            | [바로가기](https://www.acmicpc.net/problem/17298) |
+|   13460   | 구슬 탈출 2       | [바로가기](https://www.acmicpc.net/problem/13460) |
