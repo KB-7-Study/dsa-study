@@ -1,4 +1,4 @@
-package p4_1052;
+package kyh.p4_1052;
 
 import java.io.BufferedReader;
 import java.io.IOException;

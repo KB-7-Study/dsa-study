@@ -1,4 +1,4 @@
-package p5_1322;
+package kyh.p5_1322;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,3 +1,5 @@
+package kyh.p1_11723;
+
 import java.io.*;
 import java.util.*;
 

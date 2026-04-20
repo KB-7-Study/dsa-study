@@ -1,4 +1,4 @@
-package p7_2098;
+package kyh.p7_2098;
 import java.io.*;
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package p2_2961;
+package kyh.p2_2961;
 import java.io.*;
 import java.util.*;
 

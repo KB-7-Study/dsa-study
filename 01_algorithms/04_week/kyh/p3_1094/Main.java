@@ -1,4 +1,4 @@
-package p3_1094;
+package kyh.p3_1094;
 
 import java.io.BufferedReader;
 import java.io.IOException;
